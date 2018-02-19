@@ -1,0 +1,10 @@
+C:\Users\erabe\source\repos\frmGombok\frmGombok\bin\Debug\frmGombok.exe.config
+C:\Users\erabe\source\repos\frmGombok\frmGombok\bin\Debug\frmGombok.exe
+C:\Users\erabe\source\repos\frmGombok\frmGombok\bin\Debug\frmGombok.pdb
+C:\Users\erabe\source\repos\frmGombok\frmGombok\obj\Debug\frmGombok.csprojResolveAssemblyReference.cache
+C:\Users\erabe\source\repos\frmGombok\frmGombok\obj\Debug\frmGombok.Form1.resources
+C:\Users\erabe\source\repos\frmGombok\frmGombok\obj\Debug\frmGombok.Properties.Resources.resources
+C:\Users\erabe\source\repos\frmGombok\frmGombok\obj\Debug\frmGombok.csproj.GenerateResource.Cache
+C:\Users\erabe\source\repos\frmGombok\frmGombok\obj\Debug\frmGombok.csproj.CoreCompileInputs.cache
+C:\Users\erabe\source\repos\frmGombok\frmGombok\obj\Debug\frmGombok.exe
+C:\Users\erabe\source\repos\frmGombok\frmGombok\obj\Debug\frmGombok.pdb
